@@ -26,3 +26,9 @@ movies_list.pkl
 similarity.pkl
 
 Ces fichiers sont trop volumineux pour être hébergés sur GitHub, mais le système fonctionne localement.
+
+## Accès en ligne
+L'application est disponible en ligne ici :  
+👉 [https://movies-app-77.streamlit.app/]
+
+> Remarque : la fonctionnalité de recommandation (page 3) fonctionne uniquement en local, car les fichiers `movies_list.pkl` et `similarity.pkl` sont trop volumineux pour être inclus sur GitHub ou déployés sur Streamlit Cloud.
